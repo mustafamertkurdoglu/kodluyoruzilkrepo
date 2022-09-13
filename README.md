@@ -1,14 +1,15 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java Back End Eğitimi kapsamında açtığım ilk repo. İcerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![pic]( https://github.com/mustafamertkurdoglu/kodluyoruzilkrepo/blob/main/2022-09-12.png)
+![](https://github.com/mustafamertkurdoglu/kodluyoruzilkrepo/blob/main/Figures/odev1.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 ------
 
-git clone https://github.com/mustafamertkurdoglu/kodluyoruzilkrepo.git
+git clone 
+https://github.com/mustafamertkurdoglu/kodluyoruzilkrepo.git
 
 ----------
 
@@ -17,7 +18,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 ----
 Linux için:
+
 cd kodluyoruzilkrepo
+
 code .
 
 -----
