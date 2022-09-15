@@ -1,5 +1,8 @@
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] ------>> Binary Search Tree
-Root 7 alırsak
+***Cevap1
+
+-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] ------>> Binary Search Tree
+-Root 7 alırsak
+
             7
        /          \
      5            15
@@ -10,7 +13,8 @@ Root 7 alırsak
       \      /
         3   7
         
- Big O Notation
+ ***Cevap2
+ *Big O Notation
  --------
  O (logn)
  --------
