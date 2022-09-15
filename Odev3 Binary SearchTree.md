@@ -13,7 +13,7 @@ Cevap1
       \       /
         3    7
         
- Cevap2
+ Cevap2 
  
  Big O Notation
  --------
